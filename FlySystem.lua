@@ -1,5 +1,8 @@
 --[[
 I'd like to note that in this system I use some legacy instances, simply because I prefer them and find the end result better; I'm proficient with LinearVelocity and others.
+Credits in game description
+
+https://www.roblox.com/pt/games/136795959725853/FlyingTest
 ]]
 
 --\\Modules
